@@ -26,7 +26,7 @@
     - 短時間でメニューを決めたい時、<br>
     - 使いたい食材でレシピ検索したい時、<br>
     - 自分で考えた料理をまとめて記録しておきたい時、<br>
-  - 自分で考えた料理を発信したい時<br>
+    - 自分で考えた料理を発信したい時<br>
     
   ## 設計書
   * WSB: https://docs.google.com/spreadsheets/d/1vCn2HA5DOiIFYKa_7BD1OTUMTOmtWWoXIymfQ7nTf94/edit#gid=1066245728
