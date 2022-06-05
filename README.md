@@ -1,4 +1,4 @@
-#サイト名：kokorecipe
+# サイト名：kokorecipe
 
   ## サイト概要<br>
   
