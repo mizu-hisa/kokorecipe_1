@@ -20,21 +20,21 @@
     　しかしレシピを調べる為や投稿する事に対して会員登録することはユーザの負担になると考え、登録手順を可能な限り簡略することで利用者は増えると考えられます。<br>
     　
     ### ターゲットユーザ
-      料理初心者・主婦・主夫・一人暮らしの方
+    料理初心者・主婦・主夫・一人暮らしの方
     
     ### 主な利用シーン
-    　短時間でメニューを決めたい時、使いたい食材でレシピ検索したい時、
-    　自分で考えた料理をまとめて記録しておきたい時、自分で考えた料理を発信したい時
+    短時間でメニューを決めたい時、使いたい食材でレシピ検索したい時、<br>
+    自分で考えた料理をまとめて記録しておきたい時、自分で考えた料理を発信したい時
     
   ## 設計書
-    * WSB: https://docs.google.com/spreadsheets/d/1vCn2HA5DOiIFYKa_7BD1OTUMTOmtWWoXIymfQ7nTf94/edit#gid=1066245728
+  * WSB: https://docs.google.com/spreadsheets/d/1vCn2HA5DOiIFYKa_7BD1OTUMTOmtWWoXIymfQ7nTf94/edit#gid=1066245728
     
   ## 開発環境
-　　- OS：Linux(CentOS)
-  　- 言語：HTML,CSS,JavaScript,Ruby,SQL
-  　- フレームワーク：Ruby on Rails
-  　- JSライブラリ：jQuery
-  　- IDE：Cloud9<br>
+　- OS：Linux(CentOS)
+  - 言語：HTML,CSS,JavaScript,Ruby,SQL
+  - フレームワーク：Ruby on Rails
+  - JSライブラリ：jQuery
+  - IDE：Cloud9
     
   ## 使用素材
-  　- 使用検討中です。
+  - 使用検討中です。
