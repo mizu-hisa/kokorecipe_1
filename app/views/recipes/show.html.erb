@@ -1,0 +1,15 @@
+<h2>タイトル</h2>
+<p><%= @recipe.title %></p>
+
+<h2>本文</h2>
+<p><%= @recipe.detail %></p>
+
+<p>画像</p>
+<% if @recipe.image.attached? %>
+  <%= image_tag @recipe.image, size: "200x200" %>
+<% else %>
+  <%= image_tag 'no_image', size: "200x200" %>
+<% end %>
+
+<%= link_to "編集", edit_recipe_path(@recipe.id) %>
+<%= link_to "削除", destroy_recipe_path(@recipe.id), method: :delete, "data-confirm" => "本当に削除しますか？" %>

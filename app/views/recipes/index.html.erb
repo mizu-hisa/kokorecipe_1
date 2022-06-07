@@ -1,0 +1,15 @@
+<h1>投稿一覧</h1>
+
+<% @recipes.each do |recipe| %>
+
+  <p>タイトル</p>
+  <%= link_to recipe.title, recipe_path(recipe.id) %>
+
+  <p>画像</p>
+  <% if recipe.image.attached? %>
+    <%= image_tag recipe.image, size: "200x200" %>
+  <% else %>
+    <%= image_tag 'no_image', size: "200x200" %>
+  <% end %>
+
+<% end %>
